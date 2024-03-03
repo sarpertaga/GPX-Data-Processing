@@ -11,3 +11,5 @@ It should be noted that this operation can be done on any .geojson extension fil
 This project is currently reading coordinate data with .gpx extension. In the progress phase, the aim is to analyze GNSS data with RiNEX extension using Python.
 
 Stay tuned!
+
+![](https://github.com/sarpertaga/GPX-Data-Processing/blob/main/gif/gif.gif)
